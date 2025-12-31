@@ -29,7 +29,7 @@ This project implements an MCP server that enables Claude to connect to Zoom, re
 1. Clone the repository:
    ```bash
    git clone https://github.com/bstef/echelon-zoom-mcp.git
-   cd zoom-mcp
+   cd echelon-zoom-mcp
    ```
 
 2. Create a virtual environment and activate it using uv:
