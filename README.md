@@ -28,7 +28,7 @@ This project implements an MCP server that enables Claude to connect to Zoom, re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zoom-mcp.git
+   git clone https://github.com/bstef/echelon-zoom-mcp.git
    cd zoom-mcp
    ```
 
